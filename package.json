@@ -1,0 +1,46 @@
+{
+  "name": "apxc-json-repository",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apxc",
+    "json",
+    "repository",
+    "nodejs",
+    "crud",
+    "file-based",
+    "data-management",
+    "json-repository",
+    "apxc-json-repository",
+    "json-file-repository",
+    "json-data-repository",
+    "json-crud-repository",
+    "json-file-crud-repository",
+    "json-data-management",
+    "json-repository-pattern",
+    "json-repository-library",
+    "json-repository-module",
+    "json-repository-package",
+    "json-repository-system",
+    "json-repository-solution",
+    "json-repository-tool",
+    "json-repository-service",
+    "json-repository-api",
+    "json-repository-framework",
+    "json-repository-utility",
+    "json-repository-helper",
+    "json-repository-function",
+    "json-repository-class",
+    "json-repository-interface",
+    "json-repository-implementation"
+  ],
+  "author": "alessio.pellizzaro@apserial.it",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "uuid": "^13.0.0"
+  }
+}
