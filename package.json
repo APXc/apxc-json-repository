@@ -38,7 +38,7 @@
     "json-repository-implementation"
   ],
   "author": "alessio.pellizzaro@apserial.it",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "uuid": "^13.0.0"
