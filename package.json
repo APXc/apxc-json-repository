@@ -38,7 +38,11 @@
     "json-repository-implementation"
   ],
   "author": "alessio.pellizzaro@apserial.it",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/APXc/apxc-json-repository"
+  },
+   "license": "MPL-2.0",
   "description": "",
   "dependencies": {
     "uuid": "^13.0.0"

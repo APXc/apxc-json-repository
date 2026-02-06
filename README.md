@@ -65,14 +65,12 @@ Sistema completo di gestione database JSON su filesystem con sintassi compatibil
 
 ## 📥 Installazione
 
-### Installazione NPM
+### Installazione
 
 ```bash
-# Installa dipendenza UUID
-npm install uuid
 
-# Copia il file json-repository.js nella tua directory
-cp json-repository.js /path/to/your/project/
+npm install apxc-json-repository
+
 ```
 
 ### Installazione Node-RED
@@ -101,7 +99,7 @@ cp json-repository.js /path/to/your/project/
 ### Esempio Base
 
 ```javascript
-const jsonRepository = require('./json-repository');
+const jsonRepository = require('apxc-json-repository'); 
 
 // 1. Aggiungi un utente
 const addResult = await jsonRepository({
